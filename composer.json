@@ -1,0 +1,8 @@
+{
+  "minimum-stability": "stable",
+  "require": {
+    "alexgarrett/violin": "2.*",
+    "hassankhan/config": "0.10.*",
+    "phpmailer/phpmailer": "~5.2"
+  }
+}
